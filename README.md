@@ -43,5 +43,3 @@ Ce projet présente l'application de diverses techniques d'apprentissage automat
 - Expérimenter avec d'autres architectures d'apprentissage profond et affiner les modèles pré-entraînés.
 - Explorer l'analyse de sentiment basée sur les aspects pour identifier le sentiment à l'égard de caractéristiques ou de sujets spécifiques.
 - Implémenter les modèles dans une application web pour une analyse de sentiment en temps réel.
-# Sentiment-on-Consumer-Reviews
-# Sentiment-on-Consumer-Reviews
